@@ -1,4 +1,4 @@
-# Ultra
+# AZUltra
 
 Copyright © 2026 Adam Zembrzuski
 
