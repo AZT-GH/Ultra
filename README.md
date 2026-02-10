@@ -11,5 +11,5 @@ AZUltra is a periodic buzzer designed for space-constrained environments. Applic
 
 <img width="1372" height="845" alt="image" src="https://github.com/user-attachments/assets/8fddff52-331c-4ef6-99a0-abb65ecf78e1" />
 
-View the project entirely in your browser on KiCanvas - LINK
+View the project entirely in your browser on KiCanvas - https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FAZT-GH%2FUltra%2Ftree%2Fmain%2FGH_UPLOAD%2FAZUltra
 
